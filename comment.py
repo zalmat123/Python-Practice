@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 26 14:48:35 2021
 
-@author: fitsum
+@author: abebe
 
 comments: comment is very important section in computer programming langauge
     it makes the code be more readeable for human being, it provide more information and explanation for the specific parts of the code
